@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={getData}>Test</button>
+      <button onClick={getData}>Testing</button>
     </div>
   );
 }
